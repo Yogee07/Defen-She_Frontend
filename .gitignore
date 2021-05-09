@@ -1,0 +1,17 @@
+node_modules/**/*
+.expo/*
+.expo-shared/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+# macOS
+.DS_Store
+google-services.json
+config/apiKey.js
+/config/apiKey.js
+app.json
